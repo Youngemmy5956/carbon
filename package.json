@@ -1,5 +1,6 @@
 {
   "name": "carbon",
+  "private": true,
   "description": "Create and share beautiful images of your source code",
   "version": "4.9.10",
   "license": "MIT",
